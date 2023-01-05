@@ -23,7 +23,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50PX 200px;
+    padding: 50PX 200px;
 
 }
 
